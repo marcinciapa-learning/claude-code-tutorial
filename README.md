@@ -1,1 +1,1 @@
-# claude-code-tutorial
+Codebase for [YouTube course](https://www.youtube.com/watch?v=a_yuTuSPjjo) for Claude Code
